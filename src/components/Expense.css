@@ -1,0 +1,7 @@
+.expense__parent {
+    box-sizing: border-box;
+    width: 80%;
+    background-color: #282c34;
+    padding: 10px;
+    border-radius: 10px;
+}
